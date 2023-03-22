@@ -3,7 +3,7 @@ package HackerRank;
 
 import java.util.Scanner;
 
-public class JavaLoopsII {
+public class LoopsII {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

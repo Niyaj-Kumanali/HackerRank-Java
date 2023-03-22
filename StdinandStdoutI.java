@@ -3,7 +3,7 @@ package HackerRank;
 import java.util.Scanner;
 //https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/
 
-public class JavaStdinandStdoutI {
+public class StdinandStdoutI {
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc = new Scanner(System.in);
